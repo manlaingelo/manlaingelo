@@ -1,14 +1,13 @@
 [![Matrix
 SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<h1 align="center">Hi 👋, I'm Manlaingelo</h1>
+<h1 align="center">Hi 👋, You're here so you know who I am</h1>
 <h3 align="center">
-  I am a Front-End Web Developer from UB, Mongolia. I'm working on React.js &&
-  Vue.js && REST API.
+  I am a Front-End Web Developer from UB, Mongolia.
 </h3>
 
 - 🔭 I’m currently working on some secret stuff 
-- 🌱 I’m currently learning **Cloud Servers, Typescript, Three.js** 
+- 🌱 I’m currently learning **Three.js** 
 - 👨‍💻 All of my projects are available at [here](https://github.com/manlaingelo) 
 - 📫 How to reach me ? just write mail to **munkhmanlai56@gmail.com**
 
@@ -228,4 +227,4 @@ SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matr
 </tr>
 </table>
 
-Last Edited on: 4/04/2022
+Last Edited on: 4/25/2023
