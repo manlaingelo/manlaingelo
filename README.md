@@ -7,7 +7,7 @@ SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matr
 </h3>
 
 - 🔭 I’m currently working on some secret stuff 
-- 🌱 I’m currently learning **Three.js** 
+- 🌱 I’m currently learning **Three.js, R3F, Shaders** 
 - 👨‍💻 All of my projects are available at [here](https://github.com/manlaingelo) 
 - 📫 How to reach me ? just write mail to **munkhmanlai56@gmail.com**
 
