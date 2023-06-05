@@ -1,28 +1,3 @@
-[![Matrix
-SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-
-<h1 align="center">Hi 👋, You're here so you know who I am</h1>
-<h3 align="center">
-  I am a Front-End Web Developer from UB, Mongolia.
-</h3>
-
-- 🔭 I’m currently working on some secret stuff 
-- 🌱 I’m currently learning **Three.js, R3F, Shaders** 
-- 👨‍💻 All of my projects are available at [here](https://github.com/manlaingelo) 
-- 📫 How to reach me ? just write mail to **munkhmanlai56@gmail.com**
-
-<h3 align="left">🤝🏻 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.facebook.com/michelange1o" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="fb icon"
-      height="30"
-      width="40"
-  /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <table align="center">
@@ -189,7 +164,7 @@ SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matr
         alt="React"
       />
     </a>
-    <br />React.js
+    <br />React.js & Nextjs
   </td>
   <td align="center" width="96">
     <a href="#Firebase">
@@ -227,4 +202,4 @@ SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matr
 </tr>
 </table>
 
-Last Edited on: 4/25/2023
+Last Edited on: 06/05/2023
