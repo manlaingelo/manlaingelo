@@ -1,3 +1,10 @@
+### Yeah, Wassup!
+
+A front-end developer by day. <br />
+Typical Valorant enjoyer by night.
+
+<hr />
+
 <h3 align="left">Languages and Tools:</h3>
 
 <table align="center">
@@ -202,4 +209,3 @@
 </tr>
 </table>
 
-Last Edited on: 06/05/2023
