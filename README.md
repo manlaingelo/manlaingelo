@@ -1,7 +1,8 @@
 ### Yeah, Wassup!
 
 A front-end developer by day. <br />
-Typical Valorant enjoyer by night.
+Gamer by night. <br />
+Jagermeister enjoyer on fridays.
 
 <hr />
 
